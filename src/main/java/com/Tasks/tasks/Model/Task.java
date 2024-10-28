@@ -25,7 +25,6 @@ public class Task {
         return description;
     }
 
-    // Setters (opcional, si necesitas modificar los valores)
     public void setId(Long id) {
         this.id = id;
     }
