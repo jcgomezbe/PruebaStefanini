@@ -14,8 +14,9 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas en tu
 - [Git](https://git-scm.com/)
 
 ## Configuración del Backend
+Estructura del proyecto en el main.
 
-1. Clona el repositorio:
+1. Clona el repositorio: https://github.com/jcgomezbe/PruebaStefanini.git
 2. mvn clean install
 3. mvn spring-boot:run
 
